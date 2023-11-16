@@ -59,4 +59,4 @@ Lists all the deployed static sites and services
 Feel free to contact me on <a href="https://www.linkedin.com/in/this-is-shreya">LinkedIn</a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/this_is_code_cafe/)
-[![Youtube](https://img.shields.io/badge/Youtube-Follow-red)](https://youtube.com/this_is_code_cafe/)
+[![Youtube](https://img.shields.io/badge/Youtube-Follow-red)](https://youtube.com/@this-is-code-cafe)
