@@ -9,20 +9,24 @@ It is a platform that makes use of Node.js, Express.js, MongoDB, AWS and Pulumi 
 
 1. Landing Page
    
-   <img width="328" alt="image" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/db63e543-c6bd-4675-ab24-f548b055e8c6">
+   <img width="659" alt="free-hosting-landing" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/6238d693-14e8-41d6-a5a9-3cd3a277a562">
+
 
 2. Home Page
    
 Lists all the deployed static sites and services
+
    <img width="960" alt="freehosting-homepage" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/b9e203dd-bcae-417d-b4fd-5051f6474930">
 
 3. Web service
 
-   <img width="325" alt="image" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/bba6598f-7881-4e52-8b66-796d0df230aa">
+   <img width="657" alt="free-hosting-web-service" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/29642628-c2de-48ae-add0-91d322c5a29f">
+
 
 4. Static site
-   
-   <img width="391" alt="image" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/305a880e-73bd-451b-b2b0-a147d369c066">
+
+   <img width="662" alt="free-hosting-static" src="https://github.com/this-is-shreya/free-hosting/assets/62089952/b47c45a1-0385-48f7-9f56-c0dd124f875b">
+
 
 
 ## Tech Stack
