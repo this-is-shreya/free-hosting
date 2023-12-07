@@ -31,7 +31,7 @@ mongoose.connect(process.env.DATABASE, {}).then(() => {
 //backend
 app.use("/auth", cors(corsOptionsDelegate), require("./routes/auth"));
 app.use("/host", cors(corsOptionsDelegate), require("./routes/host"));
-const { addObjectToS3 } = require("./utils/addObjectToS3");
+
 app.listen(process.env.PORT, () => {
   console.log("listening at " + process.env.PORT);
 });
